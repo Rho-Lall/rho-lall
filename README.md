@@ -13,4 +13,6 @@ Because to grab growth, sometimes you have to let go of the grind.
 
 Do you want to bulldoze thru the BS? Let's talk.
 
+Connect with me on [linkedin](https://www.linkedin.com/in/rholall/)
+
 ![Rho](https://rho-lall.github.io/static/2d2fa03595382d3f95ad5f0f864d9adc/0c531/gliph.webp)
