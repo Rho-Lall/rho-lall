@@ -1,35 +1,36 @@
-## Hi there 👋 I'm rho,
+# Rho Lall
 
-![Rho Lall](https://rho-lall.github.io/static/6386155ccb4ce491da0f63b52c5ec077/4f506/about_rho_lall.webp)
+**AI Analytics Engineer** · Phoenix, AZ
 
-I'm a bulldozer. I help executives with AI strategy to cut through the noise, amplify leadership, and bring down ruthless clarity on complex problems.
+I build AI systems that recover revenue for real businesses.
+I document solutions for both human and machine readers.
+I bring down ruthless clarity on complex problems.
 
-# Is AI Coming to Replace You?
-##### No. But someone who uses AI is.
+---
 
-Still buried in a silo of spreadsheets? While others scale AI, you still can’t agree on the numbers.
+## Currently Building
 
-You’ve got more tools. More alerts. More meetings.
-But somehow, less time, less clarity, and less confidence.
+**Lead recovery system for appointment businesses** — voice + chat AI that answers missed calls and dead DMs, and books the appointment.
 
-You pushed AI to make faster calls.  
-But you can’t automate decisions when no one agrees on the data.
+[Case study →](https://github.com/Rho-Lall/lead-recovery-case-study)
 
-Companies don’t fail at AI because the tools are broken. They fail because their people are unaligned. The same team that argues over data in spreadsheets won’t magically start collaborating because you handed them a shiny new model. You can’t automate what isn’t agreed upon.
+---
 
-But what if instead of waiting years for the culture to “get ready,” you used AI to align it — fast?
+## Portfolio
 
-If you suspect your culture isn't ready to embrace AI, instead of looking to empower your business with AI, empower your culture.
+| Project | Problem | Result |
+|---------|---------|--------|
+| [lead-recovery-case-study](https://github.com/Rho-Lall/lead-recovery-case-study) | Missed calls cost appointment businesses $800+ per lost client | Voice + chat AI concierge that books missed appointments |
+| [big-banana](https://github.com/Rho-Lall/big-banana) | Banana pricing history is scattered across obscure sources | AI research pipeline that mines primary sources and synthesizes structured findings |
+| [credit-analysis](https://github.com/Rho-Lall/credit-analysis) | Paying down multiple credit cards optimally is a manual, error-prone exercise | Branch-and-bound optimizer that computes the fastest, cheapest payoff strategy |
+| [financial-analysis](https://github.com/Rho-Lall/financial-analysis) | SEC financial filings are hard to model without slow, ad-hoc pipelines | dbt Fusion + Data Vault 2.0 pipeline with interactive financial reporting |
+| [Riptide](https://github.com/Rho-Lall/Riptide) | Coordinating many concurrent Claude Code agents doesn't scale by hand | Lightweight framework orchestrating 6-30 agents through structured parallel waves |
+| [BullDozers_CHATBOT](https://github.com/Rho-Lall/BullDozers_CHATBOT) | Sales teams lose deals to a week-long manual interview-to-underwriting process | AI assistant that interviews, collects documents, and assembles packages in minutes |
 
+---
 
-I help executives with AI strategy to cut through the noise, amplify leadership, and bring down ruthless clarity on complex problems.
-Whether it's dirty data, stalled goals, or tangled execution: I build systems that get to the right decisions and put them on autopilot.
+## Connect
 
-The result?
-
-Teams that work cleaner, think clearer, and lead with confidence.
-Do you want to bulldoze thru the BS? Let's talk.
-
-Connect with me on [linkedin](https://www.linkedin.com/in/rholall/)
-
-![Rho](https://rho-lall.github.io/static/2d2fa03595382d3f95ad5f0f864d9adc/0c531/gliph.webp)
+- [Substack](https://rholall.substack.com)
+- [LinkedIn](https://linkedin.com/in/rholall)
+- [Site](https://rho-lall.github.io)
