@@ -1,3 +1,5 @@
+![Rho Lall](no-strings-on-me.png)
+
 # Rho Lall
 
 **AI Analytics Engineer** · Phoenix, AZ
@@ -12,7 +14,7 @@ I bring down ruthless clarity on complex problems.
 
 **Lead recovery system for appointment businesses** — voice + chat AI that answers missed calls and dead DMs, and books the appointment.
 
-[Case study →](https://github.com/Rho-Lall/lead-recovery-case-study)
+[Case study →](https://bulldozer.life/med-spa)
 
 ---
 
