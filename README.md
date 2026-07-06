@@ -27,7 +27,7 @@ I bring down ruthless clarity on complex problems.
 | [credit-analysis](https://github.com/Rho-Lall/credit-analysis) | Paying down multiple credit cards optimally is a manual, error-prone exercise | Branch-and-bound optimizer that computes the fastest, cheapest payoff strategy |
 | [financial-analysis](https://github.com/Rho-Lall/financial-analysis) | SEC financial filings are hard to model without slow, ad-hoc pipelines | dbt Fusion + Data Vault 2.0 pipeline with interactive financial reporting |
 | [Riptide](https://github.com/Rho-Lall/Riptide) | Coordinating many concurrent Claude Code agents doesn't scale by hand | Lightweight framework orchestrating 6-30 agents through structured parallel waves |
-| [BullDozers_CHATBOT](https://github.com/Rho-Lall/BullDozers_CHATBOT) | Sales teams lose deals to a week-long manual interview-to-underwriting process | AI assistant that interviews, collects documents, and assembles packages in minutes |
+| [BullDozers_CHATBOT](https://github.com/cshumac/BullDozers) | Sales teams lose deals to a week-long manual interview-to-underwriting process | AI assistant that interviews, collects documents, and assembles packages in minutes |
 
 ---
 
