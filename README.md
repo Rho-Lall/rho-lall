@@ -4,9 +4,7 @@
 
 **AI Analytics Engineer** · Phoenix, AZ
 
-I build AI systems that recover revenue for real businesses.
-I document solutions for both human and machine readers.
-I bring down ruthless clarity on complex problems.
+I build humanity emPowered by AI. No more tools. You already wear enough hats. Everything looks important. I help you focus on what actually grows your business. And take the rest off your plate. 
 
 ---
 
