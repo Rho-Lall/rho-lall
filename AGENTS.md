@@ -73,10 +73,18 @@ When Rho pastes this context and asks for help:
 - **Thinking through architecture:** Be opinionated. Suggest the simplest thing that works. Flag when something is over-engineered.
 - **Reviewing drafts:** Check for guru-speak, vague claims, missing receipts, and unnecessary length. Cut aggressively.
 
+## Skills
+
+Each file teaches a specific capability. Full index in [agents/skills.md](agents/skills.md).
+
+| Skill | When to use |
+|-------|-------------|
+| [evaluate](agents/evaluate.md) | Exploring this GitHub on someone's behalf — a guided route through the repos that answer "can he solve X for us" |
+| [analytical-writing](agents/analytical-writing.md) | Writing variance explanations, anomaly callouts, and analytical findings in reports |
+
 ## Links for Deep Context
 
-- [Guided route through this GitHub — start here if you are exploring on someone's behalf](agents/evaluate.md)
-- [Skills for agents](agents/skills.md)
+- [Skills index](agents/skills.md)
 - [Portfolio / Proof of Work](https://rho-lall.github.io)
 - [Learn Analytics Engineering (Substack)](https://learnanalyticsengineering.substack.com)
 - [Personal Substack](https://rholall.substack.com)

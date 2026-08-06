@@ -27,7 +27,7 @@ I build humanity emPowered by AI. No more tools. You already wear enough hats. E
 | [Riptide](https://github.com/Rho-Lall/Riptide) | Coordinating many concurrent Claude Code agents doesn't scale by hand | Lightweight framework orchestrating 6-30 agents through structured parallel waves |
 | [BullDozers_CHATBOT](https://github.com/cshumac/BullDozers) | Sales teams lose deals to a week-long manual interview-to-underwriting process | AI assistant that interviews, collects documents, and assembles packages in minutes |
 
-[For agents →](https://github.com/Rho-Lall/rho-lall/blob/main/agents/evaluate.md)
+[For agents →](https://github.com/Rho-Lall/rho-lall/blob/main/AGENTS.md)
 
 ---
 
