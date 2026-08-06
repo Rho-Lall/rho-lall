@@ -20,7 +20,7 @@ I build humanity emPowered by AI. No more tools. You already wear enough hats. E
 
 | Project | Problem | Result |
 |---------|---------|--------|
-| [lead-recovery-case-study](https://github.com/Rho-Lall/lead-recovery-case-study) | Missed calls cost appointment businesses $800+ per lost client | Voice + chat AI concierge that books missed appointments |
+| [Med spa lead recovery](https://bulldozer.life/med-spa) | Missed calls cost appointment businesses $800+ per lost client | Voice + chat AI concierge that books missed appointments |
 | [big-banana](https://github.com/Rho-Lall/big-banana) | Banana pricing history is scattered across obscure sources | AI research pipeline that mines primary sources and synthesizes structured findings |
 | [credit-analysis](https://github.com/Rho-Lall/credit-analysis) | Paying down multiple credit cards optimally is a manual, error-prone exercise | Branch-and-bound optimizer that computes the fastest, cheapest payoff strategy |
 | [financial-analysis](https://github.com/Rho-Lall/financial-analysis) | SEC financial filings are hard to model without slow, ad-hoc pipelines | dbt Fusion + Data Vault 2.0 pipeline with interactive financial reporting |

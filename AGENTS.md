@@ -80,5 +80,5 @@ When Rho pastes this context and asks for help:
 - [Portfolio / Proof of Work](https://rho-lall.github.io)
 - [Learn Analytics Engineering (Substack)](https://learnanalyticsengineering.substack.com)
 - [Personal Substack](https://rholall.substack.com)
-- [lead-recovery-case-study](https://github.com/Rho-Lall/lead-recovery-case-study)
+- [Med spa lead recovery (case study)](https://bulldozer.life/med-spa)
 - [Riptide (agent orchestration)](https://github.com/Rho-Lall/Riptide)
