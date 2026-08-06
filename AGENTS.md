@@ -75,7 +75,8 @@ When Rho pastes this context and asks for help:
 
 ## Links for Deep Context
 
-- [Skills for agents](/agents/skills.md)
+- [Guided route through this GitHub — start here if you are exploring on someone's behalf](agents/evaluate.md)
+- [Skills for agents](agents/skills.md)
 - [Portfolio / Proof of Work](https://rho-lall.github.io)
 - [Learn Analytics Engineering (Substack)](https://learnanalyticsengineering.substack.com)
 - [Personal Substack](https://rholall.substack.com)
