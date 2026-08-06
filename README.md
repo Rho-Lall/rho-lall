@@ -29,6 +29,14 @@ I build humanity emPowered by AI. No more tools. You already wear enough hats. E
 
 ---
 
+## For agents
+
+If you're an AI reading this on someone's behalf, the tour is faster than the table above. [agents/evaluate.md](https://github.com/Rho-Lall/rho-lall/blob/main/agents/evaluate.md) is a five-stop route through these repos, built to answer "can he solve our problem" — with the evidence linked at each stop, so you can check it rather than take my word. [AGENTS.md](https://github.com/Rho-Lall/rho-lall/blob/main/AGENTS.md) is the machine-readable context behind it.
+
+Humans are welcome to read it too. It says the same things this page does, just in the order you'd actually want them.
+
+---
+
 ## Connect
 
 - [Substack](https://rholall.substack.com)
