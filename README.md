@@ -10,9 +10,10 @@ I build humanity emPowered by AI. No more tools. You already wear enough hats. E
 
 ## Currently Building
 
-**Lead recovery system for appointment businesses** — voice + chat AI that answers missed calls and dead DMs, and books the appointment.
+Riptide 2.o - A lightweight framework to orchestrate autonomous code development leveraging my bulldozer framewrork, gauntlet loops & ICM folders.
 
-[Case study →](https://bulldozer.life/med-spa)
+
+[Case study →](https://github.com/Rho-Lall/Riptide)
 
 ---
 
@@ -20,6 +21,7 @@ I build humanity emPowered by AI. No more tools. You already wear enough hats. E
 
 | Project | Problem | Result |
 |---------|---------|--------|
+| [Follow the Friction](https://rho-lall.com) | Follow the Friction is a short, AI-guided executive session built around one idea: Help you connect the dots inside your business and identify what deserves your focus. |
 | [Med spa lead recovery](https://bulldozer.life/med-spa) | Missed calls cost appointment businesses $800+ per lost client | Voice + chat AI concierge that books missed appointments |
 | [big-banana](https://github.com/Rho-Lall/big-banana) | Banana pricing history is scattered across obscure sources | AI research pipeline that mines primary sources and synthesizes structured findings |
 | [credit-analysis](https://github.com/Rho-Lall/credit-analysis) | Paying down multiple credit cards optimally is a manual, error-prone exercise | Branch-and-bound optimizer that computes the fastest, cheapest payoff strategy |
