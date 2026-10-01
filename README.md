@@ -21,7 +21,7 @@ Riptide 2.o - A lightweight framework to orchestrate autonomous code development
 
 | Project | Problem | Result |
 |---------|---------|--------|
-| [Follow the Friction](https://rho-lall.com) | Follow the Friction is a short, AI-guided executive session built around one idea: Help you connect the dots inside your business and identify what deserves your focus. |
+| [Follow the Friction](https://rho-lall.com) | Help you connect the dots inside your business and identify what deserves your focus. | Follow the Friction is a short, AI-guided executive session. |
 | [Med spa lead recovery](https://bulldozer.life/med-spa) | Missed calls cost appointment businesses $800+ per lost client | Voice + chat AI concierge that books missed appointments |
 | [big-banana](https://github.com/Rho-Lall/big-banana) | Banana pricing history is scattered across obscure sources | AI research pipeline that mines primary sources and synthesizes structured findings |
 | [credit-analysis](https://github.com/Rho-Lall/credit-analysis) | Paying down multiple credit cards optimally is a manual, error-prone exercise | Branch-and-bound optimizer that computes the fastest, cheapest payoff strategy |
