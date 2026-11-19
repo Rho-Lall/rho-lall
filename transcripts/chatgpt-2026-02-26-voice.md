@@ -5,8 +5,6 @@
 **Participants:** Rho Lall (`Me`) and ChatGPT (`Chat`).
 **Context:** Rho was preparing to speak to a room of roughly 300 people and asked the model — which had months of prior working context on him — to describe him, then pushed it on how it knew and where the counter-case was.
 
-Quoted in [agents/evaluate.md](../agents/evaluate.md).
-
 **On the "26-table project in 8 hours" claim below:** it checks out. It refers to [financial-analysis](https://github.com/Rho-Lall/financial-analysis) — 26 dbt models (8 raw vault, 4 business vault, 6 marts, 6 exports), countable in the [published dbt docs](https://rho-lall.github.io/financial-analysis/dbtdocs/index.html), built in one 8-hour session written up in [Master Faster](https://rholall.substack.com/p/master-faster-turn-unimplementable). The model recalled it correctly.
 
 ---
