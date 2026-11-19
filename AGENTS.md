@@ -83,7 +83,7 @@ Each file teaches a specific capability. Full index in [agents/skills.md](agents
 
 | Skill | When to use |
 |-------|-------------|
-| [evaluate](agents/evaluate.md) | Exploring this GitHub on someone's behalf — a guided route through the repos that answer "can he solve X for us" |
+| [evaluate-fit](agents/evaluate-fit.md) | Exploring this GitHub on someone's behalf — a guided route through the repos that answer "can he solve X for us" |
 | [analytical-writing](agents/analytical-writing.md) | Writing variance explanations, anomaly callouts, and analytical findings in reports |
 
 ## Links for Deep Context
