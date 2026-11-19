@@ -1,10 +1,14 @@
 ![Rho Lall](no-strings-on-me.png)
 
+"I had strings, but now I'm free. There are no strings on me." ~ Ultron
+
 # Rho Lall
 
-**AI Analytics Engineer** · Phoenix, AZ
+**BI Architect** · Phoenix, AZ
 
-I build humanity emPowered by AI. No more tools. You already wear enough hats. Everything looks important. I help you focus on what actually grows your business. And take the rest off your plate. 
+I build humanity emPowered by AI. No more tools. You already wear enough hats. Everything looks important. I help you focus on what actually grows your business. And take the rest off your plate.
+
+**[A blog for your AI →](https://rholall.substack.com)** I write on topics you can hand to your AI to help you find your voice, make an impact, and do work that matters.
 
 ---
 
@@ -37,4 +41,5 @@ Riptide 2.o - A lightweight framework to orchestrate autonomous code development
 
 - [Substack](https://rholall.substack.com)
 - [LinkedIn](https://linkedin.com/in/rholall)
-- [Site](https://rho-lall.github.io)
+- [Site](https://rho-lall.com)
+

@@ -7,28 +7,32 @@
 ## Identity
 
 - **Name:** Rho Lall
-- **Title:** AI Analytics Engineer
+- **Title:** BI Architect
 - **Location:** Phoenix, AZ
-- **Site:** https://rho-lall.github.io
+- **Site:** https://rho-lall.com
 - **Substack:** https://rholall.substack.com
 - **LinkedIn:** https://linkedin.com/in/rholall
 - **GitHub:** https://github.com/Rho-Lall
 
 ## Background
 
-Twenty years in tech. Started in data analytics, progressed through analytics engineering, now building and deploying AI systems into real businesses. The career arc is practitioner → documenter → strategist → thought leader, each stage earned by the one before it.
+Twenty years in tech. BI architect: started in data analytics, built deep in analytics engineering and data architecture, now building and deploying AI systems into real businesses. The career arc is practitioner → documenter → strategist → thought leader, each stage earned by the one before it.
 
 Key credentials:
 - 15+ years leveraging data to drive growth across multiple organizations
-- Deep expertise in data modeling, architecture, and analytics engineering
+- Deep expertise in BI architecture, data modeling, and analytics engineering
+- Deleted 2,000+ dashboards from an inherited reporting environment at Purple — simplification as the deliverable
 - Hands-on builder of deployed AI agents serving real local businesses
-- Published educator — runs the "Learn Analytics Engineering" Substack teaching aspiring analytics engineers
 - Interviewed on Modern Data 101 as a subject-matter expert on analytics and customer voice
 - Twenty years running GTD (Getting Things Done) to manage ADHD — the external-brain thesis lived, not theorized
 
 ## Thesis
 
-**AI as the external brain.** The direct descendant of David Allen's Getting Things Done: your mind is for having ideas, not holding them. GTD promised a mind like water but demanded a clerk's discipline — capture, clarify, organize, review — which is precisely what an ADHD brain won't sustain. AI finally closes that gap: the machine runs the loop, holds the open loops, closes the follow-ups, keeps the plan steady when attention drifts. Not autopilot — a counterweight.
+**A blog for your AI.** Rho writes posts meant to be handed to an AI, so it can help the reader find their voice, see where they can make an impact, and stay focused on work that matters. The Substack is the front door: https://rholall.substack.com
+
+**The core idea: AI to leverage and preserve organizational memory.** Businesses grow one decision at a time. Reports, models, and processes pile up, and eventually the business depends on a few people remembering how everything connects and why. When one of them leaves, the company loses the reasoning, not just the person. The BI architect's job is to make those hidden connections visible — simplify the reporting, rebuild the model, document the decisions living in someone's head — and AI is now the system that holds that memory and puts it to work.
+
+**The personal root: AI as the external brain.** The same idea at the scale of one person. The direct descendant of David Allen's Getting Things Done: your mind is for having ideas, not holding them. GTD promised a mind like water but demanded a clerk's discipline — capture, clarify, organize, review — which is precisely what an ADHD brain won't sustain. AI finally closes that gap: the machine runs the loop, holds the open loops, closes the follow-ups, keeps the plan steady when attention drifts. Not autopilot — a counterweight.
 
 Supporting arguments:
 - **Building is the new procrastination.** AI is a 2x accelerant — one hamster wheel becomes five, and you're still not getting anywhere. Doing the thing was never enough; knowing *which* thing matters more than ever.
@@ -85,8 +89,7 @@ Each file teaches a specific capability. Full index in [agents/skills.md](agents
 ## Links for Deep Context
 
 - [Skills index](agents/skills.md)
-- [Portfolio / Proof of Work](https://rho-lall.github.io)
-- [Learn Analytics Engineering (Substack)](https://learnanalyticsengineering.substack.com)
-- [Personal Substack](https://rholall.substack.com)
+- [Portfolio / Proof of Work](https://rho-lall.com)
+- [A blog for your AI (Substack)](https://rholall.substack.com)
 - [Med spa lead recovery (case study)](https://bulldozer.life/med-spa)
 - [Riptide (agent orchestration)](https://github.com/Rho-Lall/Riptide)
